@@ -1,0 +1,3 @@
+@startuml first_plantuml_diagram.png
+Alice -> Bob : Hello
+@enduml

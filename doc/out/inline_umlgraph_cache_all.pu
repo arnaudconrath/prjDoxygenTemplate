@@ -1,0 +1,4 @@
+@startuml first_plantuml_diagram.svg
+Alice -> Bob : Hello!
+Bob -> Alice : Goob bye!
+@enduml
